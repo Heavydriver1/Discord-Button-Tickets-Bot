@@ -1,7 +1,7 @@
 {
-  "prefix": "!",
+  "prefix": "?",
   "status":{
-    		"name": "tickets!",
+    		"name": "Ticket Support",
     		"type": "streaming"
     	}
 }
